@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]>=21.8,<23
+cryptography>=42
+psycopg[binary]>=3.2,<4
+psycopg-pool>=3.2,<4
+python-dotenv>=1.0
